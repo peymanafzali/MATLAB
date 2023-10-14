@@ -1,4 +1,4 @@
-# MATLAB---ANN
+# MATLAB-Machine Learning
 This is an application of artificial neural network (ANN) for forecasting electricity market prices.
 
 Program instructions:
